@@ -1,2 +1,2 @@
-# CINEMA-Server
- An all-in-one IPTV solution for content providers, resalers, resellers, and private users alike.
+# All CINEMA-Server
+ An all-in-one IPTV solution for content providers, resAellers, and private users alike.
